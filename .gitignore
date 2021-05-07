@@ -1,4 +1,4 @@
 build
 bin/*.exe
-bin/*.pbd
+bin/*.pdb
 bin/*.ilk
